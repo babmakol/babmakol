@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @babmakol
 - 👀 I’m interested in ...Learning
 - 🌱 I’m currently learning ...python, bitbucket, git
-- 💞️ I’m looking to collaborate on ...Data modeling, network programming, too automation
+- 💞️ I’m looking to collaborate on ...Data modeling, network programming, tool automation
 - 📫 How to reach me ...babmakol@gmail.com
 
 <!---
